@@ -9,8 +9,7 @@
 - 🌱 Profundizando en **Amazon Web Services** (EC2, S3, RDS) y **Docker** para despliegues cloud-native.  
 - 👯 Busco colaborar en APIs REST, automatización de procesos y proyectos open-source educacionales.  
 - 💬 Pregúntame sobre Python, SQL, diseño de bases de datos y buenas prácticas de UI/UX.  
-- 📫 **ale.oliva867@gmail.com** • [LinkedIn](https://www.linkedin.com/in/alex-oliva-a830a02a1)  
-- 😄 Pronouns: He / Him  
+- 📫 **ale.oliva867@gmail.com** • [LinkedIn](https://www.linkedin.com/in/alex-oliva-a830a02a1)   
 
 ---
 
@@ -30,7 +29,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
@@ -44,7 +42,6 @@
 ### ☁️ Cloud & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -74,5 +71,3 @@
 </div>
 
 ---
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
