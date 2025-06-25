@@ -1,5 +1,5 @@
 ## Holaaa soy **Alex Oliva** 👋  
-*Engineering-student-turned-full-stack-developer who loves turning ideas into reliable, scalable apps.*
+
 
 ![GitHub followers](https://img.shields.io/github/followers/alex-oliva?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/alex-oliva?style=social)
