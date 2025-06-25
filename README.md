@@ -61,11 +61,3 @@
 
 ---
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-oliva&show_icons=true&theme=gruvbox&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-oliva&theme=gruvbox"/>
-</div>
-
----
