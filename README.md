@@ -8,7 +8,6 @@
 - 🎓 Estudiante de *Ingeniería Informática* en **Duoc UC** (2022-2025).  
 - 🌱 Profundizando en **Amazon Web Services** (EC2, S3, RDS) y **Docker** para despliegues cloud-native.  
 - 👯 Busco colaborar en APIs REST, automatización de procesos y proyectos open-source educacionales.  
-- 💬 Pregúntame sobre Python, SQL, diseño de bases de datos y buenas prácticas de UI/UX.  
 - 📫 **ale.oliva867@gmail.com** • [LinkedIn](https://www.linkedin.com/in/alex-oliva-a830a02a1)   
 
 ---
